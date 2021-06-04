@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/83671629/120809591-3be9d800-c518-11eb-9a0a-b017d3558984.jpg" width="800" height="500">
 
 
-## Creating a tool to analyze and visualize major metrics of the portfolio across multiple areas such as volatility, returns, risk and Sharpee ratios. 
+## Creating a tool to analyze and visualize major metrics of the portfolio across multiple areas such as volatility, returns, risk and Sharpe ratios. 
 
 This tool analyzes and visualizes portfolios to determine which portfolio outperformed the others. Using some of the historical daily returns of several portfolios such as the firm's algorithmic portfolio, some that represent the portfolios of famous "whale" investors like Warren Buffett, and some from the big hedge and mutual funds, I created a custom portfolio of stocks to compare its performance to that of other portfolios and to larger market [(S&P TSX)]( https://en.wikipedia.org/wiki/S%26P/TSX_60)
 
