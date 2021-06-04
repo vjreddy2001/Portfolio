@@ -8,7 +8,7 @@ This tool analyzes and visualizes portfolios to determine which portfolio outper
 
 This tool performs three main tasks:
  
-1. [Reads in and Wrangle Returns Data](#Prepare-the-Data)
+1. [Reads in and Wrangle Returns Data](#Preparing-the-Data)
 
 2. [Determines Success of Each Portfolio](#Conduct-Quantitative-Analysis)
 
