@@ -18,19 +18,14 @@ This tool performs three main tasks:
 **Files:**
 
 * [Whale Analysis Code](/Portfolio/whale_analysis.ipynb)
-
 * [algo_returns.csv](algo_returns.csv)
-
 * [otex_historical.csv](otex_historical.csv)
-
 * [sp_tsx_history.csv](sp_tsx_history.csv)
-
 * [l_historical.csv](l_historical.csv)
-
 * [shop_historical.csv](shop_historical.csv)
-
 * [whale_returns.csv](whale_returns.csv)
-* 
+* [bce_historical.csv](bce_historical.csv)
+* [bns_historical.csv](bns_historical.csv)
 
 ### Preparing the Data
 
