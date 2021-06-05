@@ -81,7 +81,7 @@ Analyzing the data to see if any of the portfolios outperformed the stock market
 
 
 
-3. From the above output we can determine that the `PAULSON & CO.Inc` portfolio is riskier than the S&P TSX.
+3. From the above output we can determine that the `PAULSON & CO.Inc` portfolio is less riskier than the S&P TSX.
 
 4. I calculated the Annualized Standard Deviation on `joined_portfolio` using the following formula
 
